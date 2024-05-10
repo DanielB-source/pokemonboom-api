@@ -5,12 +5,12 @@
     "answer": "Electric"
   },
   {
-    "question": "Who is the first Pok\u00e9mon in the Pok\u00e9dex?",
+    "question": "Who is the first Pokémon in the Pokédex?",
     "options": ["Pikachu", "Bulbasaur", "Squirtle", "Charmander"],
     "answer": "Bulbasaur"
   },
   {
-    "question": "Which Pok\u00e9mon can evolve into eight different forms?",
+    "question": "Which Pokémon can evolve into eight different forms?",
     "options": ["Pikachu", "Eevee", "Wobbuffet", "Magikarp"],
     "answer": "Eevee"
   },
@@ -20,7 +20,7 @@
     "answer": "Thunder Stone"
   },
   {
-    "question": "What is the name of the first Pok\u00e9mon movie?",
+    "question": "What is the name of the first Pokémon movie?",
     "options": [
       "Mewtwo Strikes Back",
       "The Power of One",
@@ -30,12 +30,12 @@
     "answer": "Mewtwo Strikes Back"
   },
   {
-    "question": "Which Pok\u00e9mon is known as the 'Mascot of Pok\u00e9mon'?",
+    "question": "Which Pokémon is known as the 'Mascot of Pokémon'?",
     "options": ["Mew", "Pikachu", "Charizard", "Eevee"],
     "answer": "Pikachu"
   },
   {
-    "question": "What Pok\u00e9mon type is immune to Electric attacks?",
+    "question": "What Pokémon type is immune to Electric attacks?",
     "options": ["Water", "Flying", "Ground", "Grass"],
     "answer": "Ground"
   },
@@ -942,5 +942,950 @@
     "question": "What is the primary type of Machamp?",
     "options": ["Fighting", "Ground", "Steel", "Dark"],
     "answer": "Fighting"
+  },
+  {
+    "question": "What item is needed to evolve Onix into Steelix?",
+    "options": ["Metal Coat", "Iron Plate", "Steel Gem", "Protector"],
+    "answer": "Metal Coat"
+  },
+  {
+    "question": "What is the primary type of Togekiss?",
+    "options": ["Fairy", "Flying", "Normal", "Psychic"],
+    "answer": "Fairy"
+  },
+
+  {
+    "question": "What item is used to evolve Gligar into Gliscor?",
+    "options": ["Razor Fang", "Sharp Beak", "King's Rock", "Razor Claw"],
+    "answer": "Razor Fang"
+  },
+
+  {
+    "question": "What type is Togepi?",
+    "options": ["Fairy", "Normal", "Psychic", "Flying"],
+    "answer": "Fairy"
+  },
+
+  {
+    "question": "What ability allows Ninetales to summon a drought?",
+    "options": ["Drought", "Flash Fire", "Intimidate", "Solar Power"],
+    "answer": "Drought"
+  },
+  {
+    "question": "Which Pokémon evolves into Honchkrow?",
+    "options": ["Murkrow", "Sneasel", "Hoothoot", "Starly"],
+    "answer": "Murkrow"
+  },
+
+  {
+    "question": "What is the primary type of Hitmontop?",
+    "options": ["Fighting", "Normal", "Steel", "Ground"],
+    "answer": "Fighting"
+  },
+  {
+    "question": "What is the primary type of Absol?",
+    "options": ["Dark", "Ghost", "Psychic", "Normal"],
+    "answer": "Dark"
+  },
+  {
+    "question": "Which Pokémon can Mega Evolve into Mega Beedrill?",
+    "options": ["Beedrill", "Butterfree", "Venomoth", "Scyther"],
+    "answer": "Beedrill"
+  },
+  {
+    "question": "What Pokémon evolves into Glalie?",
+    "options": ["Snorunt", "Spheal", "Sealeo", "Vanillite"],
+    "answer": "Snorunt"
+  },
+  {
+    "question": "What type is Latios?",
+    "options": [
+      "Dragon/Psychic",
+      "Dragon/Flying",
+      "Psychic/Ghost",
+      "Dragon/Ghost"
+    ],
+    "answer": "Dragon/Psychic"
+  },
+  {
+    "question": "What is the primary type of Aegislash?",
+    "options": ["Steel/Ghost", "Dark/Steel", "Ghost/Fighting", "Steel/Psychic"],
+    "answer": "Steel/Ghost"
+  },
+  {
+    "question": "What is the primary type of Kingdra?",
+    "options": ["Water/Dragon", "Water", "Dragon", "Ice"],
+    "answer": "Water/Dragon"
+  },
+  {
+    "question": "What Pokémon evolves into Houndoom?",
+    "options": ["Houndour", "Poochyena", "Snubbull", "Growlithe"],
+    "answer": "Houndour"
+  },
+  {
+    "question": "What type is Celebi?",
+    "options": ["Psychic/Grass", "Fairy", "Psychic", "Grass"],
+    "answer": "Psychic/Grass"
+  },
+  {
+    "question": "What item is used to evolve Clefairy into Clefable?",
+    "options": ["Moon Stone", "Sun Stone", "Fairy Dust", "Star Piece"],
+    "answer": "Moon Stone"
+  },
+  {
+    "question": "Which Pokémon is known as the 'Cotton Candy Pokémon'?",
+    "options": ["Swirlix", "Spritzee", "Cottonee", "Slurpuff"],
+    "answer": "Swirlix"
+  },
+  {
+    "question": "What type is Kyogre?",
+    "options": ["Water", "Ice", "Water/Ice", "Water/Dragon"],
+    "answer": "Water"
+  },
+  {
+    "question": "Which Pokémon can Mega Evolve into Mega Diancie?",
+    "options": ["Diancie", "Carbink", "Sableye", "Mawile"],
+    "answer": "Diancie"
+  },
+  {
+    "question": "What is the primary type of Weavile?",
+    "options": ["Dark/Ice", "Dark", "Ice", "Ghost"],
+    "answer": "Dark/Ice"
+  },
+  {
+    "question": "What Pokémon evolves into Mega Swampert?",
+    "options": ["Marshtomp", "Swampert", "Quagsire", "Wooper"],
+    "answer": "Swampert"
+  },
+  {
+    "question": "What item is used to evolve Electabuzz into Electivire?",
+    "options": ["Electirizer", "Thunder Stone", "Zap Plate", "Electric Gem"],
+    "answer": "Electirizer"
+  },
+  {
+    "question": "What is the primary type of Umbreon?",
+    "options": ["Dark", "Ghost", "Psychic", "Normal"],
+    "answer": "Dark"
+  },
+  {
+    "question": "What Pokémon evolves into Gallade?",
+    "options": ["Kirlia", "Ralts", "Gardevoir", "Sylveon"],
+    "answer": "Kirlia"
+  },
+  {
+    "question": "Which Pokémon is known as the 'Aura Pokémon'?",
+    "options": ["Lucario", "Meditite", "Umbreon", "Espeon"],
+    "answer": "Lucario"
+  },
+  {
+    "question": "What type is Deoxys in its Attack Forme?",
+    "options": ["Psychic", "Dark", "Psychic/Dark", "Ghost"],
+    "answer": "Psychic"
+  },
+  {
+    "question": "What ability does the Pokémon Tropius have that boosts sunlight's effects?",
+    "options": ["Solar Power", "Chlorophyll", "Sunbathe", "Leaf Guard"],
+    "answer": "Chlorophyll"
+  },
+  {
+    "question": "What item is needed to evolve Rhydon into Rhyperior?",
+    "options": ["Protector", "Link Cable", "Trade Stone", "Evolutionary Rock"],
+    "answer": "Protector"
+  },
+  {
+    "question": "Which Pokémon evolves into Mega Alakazam?",
+    "options": ["Kadabra", "Alakazam", "Mewtwo", "Espeon"],
+    "answer": "Alakazam"
+  },
+  {
+    "question": "What is the primary type of Zapdos?",
+    "options": ["Electric/Flying", "Electric", "Flying", "Electric/Steel"],
+    "answer": "Electric/Flying"
+  },
+  {
+    "question": "Which Pokémon is known as the 'Iceberg Pokémon'?",
+    "options": ["Avalugg", "Bergmite", "Glalie", "Froslass"],
+    "answer": "Avalugg"
+  },
+  {
+    "question": "What Pokémon evolves into Delphox?",
+    "options": ["Braixen", "Fennekin", "Charmander", "Vulpix"],
+    "answer": "Braixen"
+  },
+  {
+    "question": "Which Pokémon can Mega Evolve into Mega Banette?",
+    "options": ["Banette", "Shuppet", "Duskull", "Misdreavus"],
+    "answer": "Banette"
+  },
+  {
+    "question": "What Pokémon evolves into Probopass?",
+    "options": ["Nosepass", "Magneton", "Boldore", "Graveler"],
+    "answer": "Nosepass"
+  },
+  {
+    "question": "Which Pokémon is known as the 'Cave Pokémon'?",
+    "options": ["Druddigon", "Zubat", "Diglett", "Onix"],
+    "answer": "Druddigon"
+  },
+
+  {
+    "question": "Which Pokémon is known as the 'Iron Ant Pokémon'?",
+    "options": ["Durant", "Heatmor", "Steelix", "Scizor"],
+    "answer": "Durant"
+  },
+  {
+    "question": "What is the primary type of Sharpedo?",
+    "options": ["Fire", "Water", "Dark", "Ice"],
+    "answer": "Water"
+  },
+  {
+    "question": "What Pokémon evolves into Mega Sceptile?",
+    "options": ["Treecko", "Grovyle", "Sceptile", "Tropius"],
+    "answer": "Sceptile"
+  },
+  {
+    "question": "What item is used to evolve Doublade into Aegislash?",
+    "options": ["Dusk Stone", "Sharp Sword", "Ghost Gem", "King's Shield"],
+    "answer": "Dusk Stone"
+  },
+  {
+    "question": "Which Pokémon is known as the 'Disaster Pokémon'?",
+    "options": ["Absol", "Darkrai", "Tyranitar", "Hydreigon"],
+    "answer": "Absol"
+  },
+  {
+    "question": "What is the primary type of Malamar?",
+    "options": ["Fire", "Psychic", "Dark", "Poison"],
+    "answer": "Dark"
+  },
+  {
+    "question": "What Pokémon evolves into Chesnaught?",
+    "options": ["Chespin", "Quilladin", "Turtwig", "Seedot"],
+    "answer": "Quilladin"
+  },
+
+  {
+    "question": "Which Pokémon is known as the 'Sword Pokémon'?",
+    "options": ["Honedge", "Aegislash", "Doublade", "Scyther"],
+    "answer": "Honedge"
+  },
+  {
+    "question": "What is the primary type of Furfrou?",
+    "options": ["Normal", "Fairy", "Dark", "Psychic"],
+    "answer": "Normal"
+  },
+  {
+    "question": "What Pokémon evolves into Vivillon?",
+    "options": ["Spewpa", "Scatterbug", "Silcoon", "Cascoon"],
+    "answer": "Spewpa"
+  },
+  {
+    "question": "Which Pokémon can Mega Evolve into Mega Lopunny?",
+    "options": ["Lopunny", "Buneary", "Nidorina", "Nidoqueen"],
+    "answer": "Lopunny"
+  },
+  {
+    "question": "What is the primary type of Goodra?",
+    "options": ["Dragon", "Water", "Slime", "Poison"],
+    "answer": "Dragon"
+  },
+  {
+    "question": "What Pokémon evolves into Pangoro?",
+    "options": ["Pancham", "Teddiursa", "Ursaring", "Snorlax"],
+    "answer": "Pancham"
+  },
+  {
+    "question": "Which Pokémon is known as the 'Royal Sword Pokémon'?",
+    "options": ["Gallade", "Bisharp", "Aegislash", "Samurott"],
+    "answer": "Aegislash"
+  },
+  {
+    "question": "What type is effective against Ghost Pokémon?",
+    "options": ["Dark", "Psychic", "Normal", "Ground"],
+    "answer": "Dark"
+  },
+  {
+    "question": "What is the primary type of Talonflame?",
+    "options": ["Fire/Flying", "Fire", "Flying", "Fire/Steel"],
+    "answer": "Fire/Flying"
+  },
+  {
+    "question": "What Pokémon evolves into Dragalge?",
+    "options": ["Skrelp", "Clauncher", "Seadra", "Horsea"],
+    "answer": "Skrelp"
+  },
+  {
+    "question": "Which Pokémon can Mega Evolve into Mega Aerodactyl?",
+    "options": ["Aerodactyl", "Kabutops", "Archen", "Tyrunt"],
+    "answer": "Aerodactyl"
+  },
+  {
+    "question": "What is the primary type of Heliolisk?",
+    "options": ["Electric/Normal", "Electric", "Normal", "Solar"],
+    "answer": "Electric/Normal"
+  },
+  {
+    "question": "What Pokémon evolves into Florges?",
+    "options": ["Floette", "Flabébé", "Spritzee", "Swirlix"],
+    "answer": "Floette"
+  },
+  {
+    "question": "Which Pokémon is known as the 'Mud Fish Pokémon'?",
+    "options": ["Marshtomp", "Mudkip", "Swampert", "Barboach"],
+    "answer": "Mudkip"
+  },
+  {
+    "question": "Which Pokémon is known as the 'Overturning Pokémon'?",
+    "options": ["Malamar", "Inkay", "Octillery", "Tentacruel"],
+    "answer": "Malamar"
+  },
+  {
+    "question": "What is the primary type of Tyrantrum?",
+    "options": ["Rock/Dragon", "Fire", "Dragon", "Fossil"],
+    "answer": "Rock/Dragon"
+  },
+  {
+    "question": "What Pokémon evolves into Clawitzer?",
+    "options": ["Clauncher", "Corphish", "Krabby", "Shellder"],
+    "answer": "Clauncher"
+  },
+  {
+    "question": "What is the primary type of Slurpuff?",
+    "options": ["Fairy", "Normal", "Sweet", "Psychic"],
+    "answer": "Fairy"
+  },
+  {
+    "question": "What Pokémon evolves into Aromatisse?",
+    "options": ["Spritzee", "Swirlix", "Kirlia", "Floette"],
+    "answer": "Spritzee"
+  },
+  {
+    "question": "What item is needed to evolve Electabuzz into Electivire?",
+    "options": ["Electirizer", "Thunder Stone", "Electro Booster", "Zap Plate"],
+    "answer": "Electirizer"
+  },
+
+  {
+    "question": "What is the primary type of Sylveon?",
+    "options": ["Fairy", "Normal", "Psychic", "Flying"],
+    "answer": "Fairy"
+  },
+  {
+    "question": "Which Pokémon is known as the 'Trash Heap Pokémon'?",
+    "options": ["Garbodor", "Trubbish", "Weezing", "Muk"],
+    "answer": "Garbodor"
+  },
+  {
+    "question": "What Pokémon evolves into Feraligatr?",
+    "options": ["Totodile", "Croconaw", "Squirtle", "Marshtomp"],
+    "answer": "Croconaw"
+  },
+  {
+    "question": "Which Pokémon can Mega Evolve into Mega Gyarados?",
+    "options": ["Magikarp", "Gyarados", "Milotic", "Sharpedo"],
+    "answer": "Gyarados"
+  },
+
+  {
+    "question": "Which Pokémon is known as the 'Iron Will Pokémon'?",
+    "options": ["Cobalion", "Terrakion", "Virizion", "Keldeo"],
+    "answer": "Cobalion"
+  },
+  {
+    "question": "What item is used to evolve Spritzee into Aromatisse?",
+    "options": ["Aroma Veil", "Sachet", "Perfume Spray", "Sweet Scent"],
+    "answer": "Sachet"
+  },
+
+  {
+    "question": "What Pokémon evolves into Beheeyem?",
+    "options": ["Elgyem", "Solosis", "Duosion", "Reuniclus"],
+    "answer": "Elgyem"
+  },
+
+  {
+    "question": "Which Pokémon is known as the 'Royal Pokémon'?",
+    "options": ["Pikachu", "Kingdra", "Nidoking", "Slowking"],
+    "answer": "Slowking"
+  },
+  {
+    "question": "What is the primary type of Golurk?",
+    "options": ["Ghost/Ground", "Ghost", "Ground", "Steel"],
+    "answer": "Ghost/Ground"
+  },
+  {
+    "question": "What Pokémon evolves into Dusknoir?",
+    "options": ["Dusclops", "Duskull", "Gastly", "Misdreavus"],
+    "answer": "Dusclops"
+  },
+
+  {
+    "question": "What is the primary type of Cryogonal?",
+    "options": ["Ice", "Water", "Flying", "Crystal"],
+    "answer": "Ice"
+  },
+  {
+    "question": "What Pokémon evolves into Froslas?",
+    "options": ["Snorunt", "Glalie", "Vanillite", "Bergmite"],
+    "answer": "Snorunt"
+  },
+
+  {
+    "question": "What item is needed to evolve Sneasel into Weavile?",
+    "options": ["Razor Claw", "Razor Fang", "Ice Stone", "Dark Gem"],
+    "answer": "Razor Claw"
+  },
+
+  {
+    "question": "Which Pokémon is known as the 'Boxing Pokémon'?",
+    "options": ["Hitmonchan", "Hitmonlee", "Machamp", "Breloom"],
+    "answer": "Hitmonchan"
+  },
+  {
+    "question": "What Pokémon evolves into Mandibuzz?",
+    "options": ["Vullaby", "Murkrow", "Starly", "Hoothoot"],
+    "answer": "Vullaby"
+  },
+
+  {
+    "question": "What item is used to evolve Lampent into Chandelure?",
+    "options": ["Dusk Stone", "Shiny Stone", "Moon Stone", "Fire Stone"],
+    "answer": "Dusk Stone"
+  },
+
+  {
+    "question": "What Pokémon evolves into Accelgor?",
+    "options": ["Shelmet", "Karrablast", "Snailord", "Escavalier"],
+    "answer": "Shelmet"
+  },
+
+  {
+    "question": "What is the primary type of Volcarona?",
+    "options": ["Bug/Fire", "Fire", "Bug", "Flying"],
+    "answer": "Bug/Fire"
+  },
+  {
+    "question": "What item is needed to evolve Gurdurr into Conkeldurr?",
+    "options": ["Trade", "Muscle Band", "Dynamic Punch", "Power Belt"],
+    "answer": "Trade"
+  },
+
+  {
+    "question": "What type is effective against Normal Pokémon?",
+    "options": ["Fighting", "Flying", "Psychic", "Ground"],
+    "answer": "Fighting"
+  },
+  {
+    "question": "What Pokémon evolves into Gigalith?",
+    "options": ["Boldore", "Roggenrola", "Geodude", "Carbink"],
+    "answer": "Boldore"
+  },
+
+  {
+    "question": "What is the primary type of Serperior?",
+    "options": ["Grass", "Dragon", "Poison", "Fairy"],
+    "answer": "Grass"
+  },
+  {
+    "question": "What Pokémon evolves into Conkeldurr?",
+    "options": ["Timburr", "Gurdurr", "Machoke", "Riolu"],
+    "answer": "Gurdurr"
+  },
+
+  {
+    "question": "What item is used to evolve Feebas into Milotic?",
+    "options": ["Prism Scale", "Water Stone", "Beauty Scarf", "Shiny Stone"],
+    "answer": "Prism Scale"
+  },
+  {
+    "question": "Which Pokémon is known as the 'Seed Pokémon'?",
+    "options": ["Bulbasaur", "Ivysaur", "Venusaur", "Chikorita"],
+    "answer": "Bulbasaur"
+  },
+  {
+    "question": "Which Pokémon is known as the 'Flame Pokémon'?",
+    "options": ["Charmander", "Charmeleon", "Charizard", "Moltres"],
+    "answer": "Charmander"
+  },
+  {
+    "question": "Which Pokémon is known as the 'Tiny Turtle Pokémon'?",
+    "options": ["Squirtle", "Wartortle", "Blastoise", "Lapras"],
+    "answer": "Squirtle"
+  },
+
+  {
+    "question": "Which Pokémon is known as the 'Balloon Pokémon'?",
+    "options": ["Jigglypuff", "Wigglytuff", "Clefairy", "Clefable"],
+    "answer": "Jigglypuff"
+  },
+
+  {
+    "question": "Which Pokémon is known as the 'Virtual Pokémon'?",
+    "options": ["Porygon", "Porygon2", "Porygon-Z", "Magnemite"],
+    "answer": "Porygon"
+  },
+
+  {
+    "question": "Which Pokémon is known as the 'Electric Pokémon'?",
+    "options": ["Electabuzz", "Electivire", "Jolteon", "Zapdos"],
+    "answer": "Electabuzz"
+  },
+  {
+    "question": "Which Pokémon evolves into Froslass when exposed to a Dawn Stone?",
+    "options": ["Snorunt", "Glalie", "Sealeo", "Vanillite"],
+    "answer": "Snorunt"
+  },
+  {
+    "question": "What is the primary type of Tornadus?",
+    "options": ["Flying", "Wind", "Storm", "Air"],
+    "answer": "Flying"
+  },
+
+  {
+    "question": "What is the primary type of Stunfisk?",
+    "options": ["Ground/Electric", "Water/Electric", "Fire", "Water"],
+    "answer": "Ground/Electric"
+  },
+  {
+    "question": "What Pokémon evolves into Cofagrigus?",
+    "options": ["Yamask", "Golett", "Misdreavus", "Shuppet"],
+    "answer": "Yamask"
+  },
+  {
+    "question": "Which Pokémon is known as the 'Vibration Pokémon'?",
+    "options": ["Vibrava", "Palpitoad", "Noibat", "Whismur"],
+    "answer": "Palpitoad"
+  },
+  {
+    "question": "What is the primary type of Roserade?",
+    "options": ["Grass/Poison", "Grass", "Poison", "Fairy"],
+    "answer": "Grass/Poison"
+  },
+  {
+    "question": "What item is needed to evolve Onix into Steelix?",
+    "options": ["Metal Coat", "Iron Plate", "Steel Gem", "Protector"],
+    "answer": "Metal Coat"
+  },
+  {
+    "question": "Which Pokémon is known as the 'Renegade Pokémon'?",
+    "options": ["Giratina", "Darkrai", "Mewtwo", "Hydreigon"],
+    "answer": "Giratina"
+  },
+
+  {
+    "question": "What Pokémon evolves into Shiftry?",
+    "options": ["Nuzleaf", "Seedot", "Budew", "Bellsprout"],
+    "answer": "Nuzleaf"
+  },
+
+  {
+    "question": "What is the primary type of Spiritomb?",
+    "options": ["Ghost/Dark", "Ghost", "Dark", "Psychic"],
+    "answer": "Ghost/Dark"
+  },
+  {
+    "question": "What Pokémon evolves into Luxray?",
+    "options": ["Luxio", "Shinx", "Pikachu", "Electrike"],
+    "answer": "Luxio"
+  },
+
+  {
+    "question": "What item is used to evolve Sneasel into Weavile?",
+    "options": ["Razor Claw", "Ice Stone", "Dark Gem", "Night Stone"],
+    "answer": "Razor Claw"
+  },
+  {
+    "question": "Which Pokémon is known as the 'Desert Crocodile Pokémon'?",
+    "options": ["Pikachu", "Sandile", "Krokorok", "Tyranitar"],
+    "answer": "Krokorok"
+  },
+
+  {
+    "question": "Which Pokémon can Mega Evolve into Mega Manectric?",
+    "options": ["Manectric", "Electrike", "Luxio", "Shinx"],
+    "answer": "Manectric"
+  },
+  {
+    "question": "Which Pokémon is known as the 'Iron Will Pokémon'?",
+    "options": ["Cobalion", "Registeel", "Aggron", "Beldum"],
+    "answer": "Cobalion"
+  },
+  {
+    "question": "What is the primary type of Glaceon?",
+    "options": ["Ice", "Water", "Fairy", "Normal"],
+    "answer": "Ice"
+  },
+
+  {
+    "question": "What item is needed to evolve Electabuzz into Electivire?",
+    "options": ["Electirizer", "Thunder Stone", "Zap Plate", "Magnet"],
+    "answer": "Electirizer"
+  },
+
+  {
+    "question": "What Pokémon evolves into Ninjask?",
+    "options": ["Nincada", "Shedinja", "Ninjask", "Accelgor"],
+    "answer": "Nincada"
+  },
+  {
+    "question": "What is the primary type of Mimikyu?",
+    "options": ["Ghost/Fairy", "Fairy", "Ghost", "Dark"],
+    "answer": "Ghost/Fairy"
+  },
+
+  {
+    "question": "What item is used to evolve Porygon2 into Porygon-Z?",
+    "options": ["Dubious Disc", "Upgrade", "Virtual Module", "Data ROM"],
+    "answer": "Dubious Disc"
+  },
+  {
+    "question": "Which Pokémon is known as the 'Trash Heap Pokémon'?",
+    "options": ["Garbodor", "Trubbish", "Muk", "Weezing"],
+    "answer": "Garbodor"
+  },
+  {
+    "question": "What is the primary type of Lycanroc (Midday Form)?",
+    "options": ["Rock", "Ground", "Fire", "Normal"],
+    "answer": "Rock"
+  },
+  {
+    "question": "What Pokémon evolves into Vikavolt?",
+    "options": ["Grubbin", "Charjabug", "Venipede", "Joltik"],
+    "answer": "Charjabug"
+  },
+  {
+    "question": "What item is needed to evolve Gloom into Bellossom?",
+    "options": ["Sun Stone", "Leaf Stone", "Shiny Stone", "Dawn Stone"],
+    "answer": "Sun Stone"
+  },
+  {
+    "question": "Which Pokémon is known as the 'Sea Basin Pokémon'?",
+    "options": ["Kyogre", "Lugia", "Manaphy", "Wailord"],
+    "answer": "Kyogre"
+  },
+
+  {
+    "question": "What Pokémon evolves into Salazzle?",
+    "options": ["Salandit", "Sizzlipede", "Litwick", "Torkoal"],
+    "answer": "Salandit"
+  },
+  {
+    "question": "Which Pokémon can Mega Evolve into Mega Swampert?",
+    "options": ["Marshtomp", "Swampert", "Wooper", "Quagsire"],
+    "answer": "Swampert"
+  },
+  {
+    "question": "What Pokémon evolves into Tsareena?",
+    "options": ["Bounsweet", "Steenee", "Roselia", "Petilil"],
+    "answer": "Steenee"
+  },
+  {
+    "question": "Which Pokémon is known as the 'Land Shark Pokémon'?",
+    "options": ["Gible", "Gabite", "Garchomp", "Sharpedo"],
+    "answer": "Gible"
+  },
+  {
+    "question": "What is the primary type of Bruxish?",
+    "options": ["Water/Psychic", "Water", "Psychic", "Fairy"],
+    "answer": "Water/Psychic"
+  },
+  {
+    "question": "What item is used to evolve Slowpoke into Slowking?",
+    "options": ["King's Rock", "Royal Crown", "Slowpoke Tail", "Water Stone"],
+    "answer": "King's Rock"
+  },
+  {
+    "question": "Which Pokémon can Mega Evolve into Mega Sableye?",
+    "options": ["Sableye", "Mawile", "Absol", "Spiritomb"],
+    "answer": "Sableye"
+  },
+
+  {
+    "question": "What Pokémon evolves into Bewear?",
+    "options": ["Stufful", "Teddiursa", "Cubchoo", "Pancham"],
+    "answer": "Stufful"
+  },
+  {
+    "question": "Which Pokémon is known as the 'Wool Pokémon'?",
+    "options": ["Mareep", "Wooloo", "Dubwool", "Ampharos"],
+    "answer": "Dubwool"
+  },
+  {
+    "question": "What is the primary type of Drampa?",
+    "options": ["Normal/Dragon", "Dragon", "Normal", "Flying"],
+    "answer": "Normal/Dragon"
+  },
+  {
+    "question": "What item is needed to evolve Feebas into Milotic?",
+    "options": ["Prism Scale", "Water Stone", "Shiny Stone", "Love Scale"],
+    "answer": "Prism Scale"
+  },
+  {
+    "question": "Which Pokémon can Mega Evolve into Mega Gyarados?",
+    "options": ["Magikarp", "Gyarados", "Relicanth", "Carvanha"],
+    "answer": "Gyarados"
+  },
+  {
+    "question": "What is the primary type of Aromatisse?",
+    "options": ["Fairy", "Normal", "Psychic", "Flying"],
+    "answer": "Fairy"
+  },
+  {
+    "question": "What Pokémon evolves into Gallade?",
+    "options": ["Kirlia", "Ralts", "Gardevoir", "Sylveon"],
+    "answer": "Kirlia"
+  },
+  {
+    "question": "Which Pokémon is known as the 'Cotton Candy Pokémon'?",
+    "options": ["Swirlix", "Spritzee", "Cottonee", "Whimsicott"],
+    "answer": "Swirlix"
+  },
+  {
+    "question": "What item is used to evolve Kirlia into Gallade?",
+    "options": ["Dawn Stone", "Sun Stone", "Moon Stone", "Shiny Stone"],
+    "answer": "Dawn Stone"
+  },
+  {
+    "question": "Which Pokémon can Mega Evolve into Mega Lopunny?",
+    "options": ["Buneary", "Lopunny", "Nidorina", "Nidoqueen"],
+    "answer": "Lopunny"
+  },
+  {
+    "question": "What is the primary type of Mimikyu?",
+    "options": ["Ghost/Fairy", "Fairy", "Ghost", "Dark"],
+    "answer": "Ghost/Fairy"
+  },
+  {
+    "question": "What Pokémon evolves into Politoed?",
+    "options": ["Poliwag", "Poliwhirl", "Politoed", "Poliwrath"],
+    "answer": "Poliwhirl"
+  },
+  {
+    "question": "Which Pokémon is known as the 'Mud Fish Pokémon'?",
+    "options": ["Mudkip", "Marshtomp", "Swampert", "Barboach"],
+    "answer": "Mudkip"
+  },
+  {
+    "question": "What item is used to evolve Clamperl into Gorebyss?",
+    "options": [
+      "Deep Sea Scale",
+      "Deep Sea Tooth",
+      "Water Stone",
+      "Mystic Water"
+    ],
+    "answer": "Deep Sea Scale"
+  },
+  {
+    "question": "What type is effective against Electric Pokémon?",
+    "options": ["Ground", "Water", "Fire", "Grass"],
+    "answer": "Ground"
+  },
+  {
+    "question": "Which Pokémon is known as the 'Generation Pokémon'?",
+    "options": ["Vespiquen", "Milotic", "Manaphy", "Phione"],
+    "answer": "Manaphy"
+  },
+  {
+    "question": "What is the primary type of Giratina in its Altered Forme?",
+    "options": ["Ghost/Dragon", "Dragon/Flying", "Ghost/Dark", "Dragon/Dark"],
+    "answer": "Ghost/Dragon"
+  },
+  {
+    "question": "What Pokémon evolves into Banette?",
+    "options": ["Shuppet", "Banette", "Duskull", "Misdreavus"],
+    "answer": "Shuppet"
+  },
+  {
+    "question": "What Pokémon evolves into Venusaur?",
+    "options": ["Machoke", "Pichu", "Banette", "Venusaur"],
+    "answer": "Ivysaur"
+  },
+  {
+    "question": "What Pokémon evolves into Ivysaur?",
+    "options": ["Bulbasaur", "Ivysaur", "Glaceon", "Geodude"],
+    "answer": "Bulbasaur"
+  },
+  {
+    "question": "What Pokémon evolves into Metang?",
+    "options": ["Machoke", "Metang", "Bulbasaur", "Geodude"],
+    "answer": "Beldum"
+  },
+  {
+    "question": "What Pokémon evolves into Graveler?",
+    "options": ["Snorunt", "Graveler", "Dragonite", "Glaceon"],
+    "answer": "Geodude"
+  },
+  {
+    "question": "What Pokémon evolves into Metagross?",
+    "options": ["Hitmonlee", "Squirtle", "Machop", "Metagross"],
+    "answer": "Metang"
+  },
+  {
+    "question": "What Pokémon evolves into Charmeleon?",
+    "options": ["Alakazam", "Hitmonchan", "Charmeleon", "Froslass"],
+    "answer": "Charmander"
+  },
+  {
+    "question": "What Pokémon evolves into Golem?",
+    "options": ["Golem", "Machoke", "Caterpie", "Raichu"],
+    "answer": "Graveler"
+  },
+  {
+    "question": "What is the primary type of Metagross?",
+    "options": ["Fighting", "Steel/Psychic", "Electric", "Psychic"],
+    "answer": "Steel/Psychic"
+  },
+  {
+    "question": "What Pokémon evolves from Squirtle?",
+    "options": ["Alakazam", "Wartortle", "Charizard", "Bulbasaur"],
+    "answer": "Wartortle"
+  },
+  {
+    "question": "Which Pokémon is known as the 'Magnet Pokémon'?",
+    "options": ["Magnemite", "Magneton", "Magnezone", "Beldum"],
+    "answer": "Magnemite"
+  },
+  {
+    "question": "Which Pokémon is known as the 'Iceberg Pokémon'?",
+    "options": ["Lapras", "Dewgong", "Seel", "Avalugg"],
+    "answer": "Avalugg"
+  },
+  {
+    "question": "Which Pokémon is known as the 'Iron Armor Pokémon'?",
+    "options": ["Aggron", "Lairon", "Aron", "Steelix"],
+    "answer": "Aggron"
+  },
+  {
+    "question": "Which Pokémon is known as the 'Iron Snake Pokémon'?",
+    "options": ["Steelix", "Onix", "Scizor", "Ferrothorn"],
+    "answer": "Steelix"
+  },
+  {
+    "question": "Which Pokémon is known as the 'Mud Fish Pokémon'?",
+    "options": ["Mudkip", "Marshtomp", "Swampert", "Wooper"],
+    "answer": "Mudkip"
+  },
+  {
+    "question": "Which Pokémon is known as the 'Volcano Pokémon'?",
+    "options": ["Groudon", "Entei", "Charizard", "Moltres"],
+    "answer": "Groudon"
+  },
+  {
+    "question": "Which Pokémon is known as the 'Time Travel Pokémon'?",
+    "options": ["Celebi", "Dialga", "Palkia", "Giratina"],
+    "answer": "Celebi"
+  },
+  {
+    "question": "Which Pokémon is known as the 'Knowledge Pokémon'?",
+    "options": ["Uxie", "Mesprit", "Azelf", "Mew"],
+    "answer": "Uxie"
+  },
+  {
+    "question": "Which Pokémon is known as the 'Emotion Pokémon'?",
+    "options": ["Mesprit", "Uxie", "Azelf", "Mew"],
+    "answer": "Mesprit"
+  },
+  {
+    "question": "Which Pokémon is known as the 'Willpower Pokémon'?",
+    "options": ["Azelf", "Uxie", "Mesprit", "Mew"],
+    "answer": "Azelf"
+  },
+  {
+    "question": "What is one of the abilities of Charizard?",
+    "options": ["Solar Power", "Chlorophyll", "Inner Focus", "Synchronize"],
+    "answer": "Solar Power"
+  },
+
+  {
+    "question": "Which Pokémon is known as the 'Old Shrimp Pokémon'?",
+    "options": ["Anorith", "Armaldo", "Kabuto", "Kabutops"],
+    "answer": "Anorith"
+  },
+
+  {
+    "question": "Which Pokémon is known as the 'Iron Leg Pokémon'?",
+    "options": ["Pikachu", "Metagross", "Beldum", "Registeel"],
+    "answer": "Metagross"
+  },
+  {
+    "question": "Which Pokémon is known as the 'Iron Claw Pokémon'?",
+    "options": ["Pikachu", "Metang", "Beldum", "Aggron"],
+    "answer": "Metang"
+  },
+  {
+    "question": "Which of these Pokémon is not a Psychic type?",
+    "options": ["Espeon", "Alakazam", "Gengar", "Gardevoir"],
+    "answer": "Gengar"
+  },
+  {
+    "question": "Which Pokémon has the highest base stat total?",
+    "options": ["Arceus", "Mewtwo", "Rayquaza", "Giratina"],
+    "answer": "Arceus"
+  },
+  {
+    "question": "Which of these Pokémon is not a legendary Pokémon?",
+    "options": ["Zapdos", "Moltres", "Articuno", "Pidgeot"],
+    "answer": "Pidgeot"
+  },
+  {
+    "question": "Which Pokémon is known for its transformation ability?",
+    "options": ["Ditto", "Mew", "Zoroark", "Castform"],
+    "answer": "Ditto"
+  },
+
+  {
+    "question": "Which Pokémon is known for its sleeping ability?",
+    "options": ["Snorlax", "Slaking", "Komala", "Munna"],
+    "answer": "Snorlax"
+  },
+  {
+    "question": "What type of move is 'Hydro Pump'?",
+    "options": ["Water", "Fire", "Grass", "Electric"],
+    "answer": "Water"
+  },
+  {
+    "question": "Which Pokémon evolves from Pikachu?",
+    "options": ["Raichu", "Pichu", "Jolteon", "Electabuzz"],
+    "answer": "Raichu"
+  },
+  {
+    "question": "Which Pokémon does Ash Ketchum have from the start?",
+    "options": ["Charmander", "Squirtle", "Bulbasaur", "Pikachu"],
+    "answer": "Pikachu"
+  },
+  {
+    "question": "What item is needed to evolve Onix into Steelix?",
+    "options": ["Metal Coat", "King's Rock", "Dragon Scale", "Upgrade"],
+    "answer": "Metal Coat"
+  },
+  {
+    "question": "Which Pokémon can learn the move 'Splash'?",
+    "options": ["Magikarp", "Gyarados", "Lapras", "Seaking"],
+    "answer": "Magikarp"
+  },
+  {
+    "question": "Which Pokémon is the final evolution of Bulbasaur?",
+    "options": ["Venusaur", "Ivysaur", "Meganium", "Torterra"],
+    "answer": "Venusaur"
+  },
+  {
+    "question": "What type of Pokémon is immune to Ghost type moves?",
+    "options": ["Normal", "Psychic", "Dark", "Fairy"],
+    "answer": "Normal"
+  },
+  {
+    "question": "Which Pokémon is not a legendary Pokémon?",
+    "options": ["Zapdos", "Moltres", "Articuno", "Pidgeot"],
+    "answer": "Pidgeot"
+  },
+  {
+    "question": "Which Pokémon is not a Eevee evolution?",
+    "options": ["Vaporeon", "Jolteon", "Flareon", "Luxray"],
+    "answer": "Luxray"
+  },
+  {
+    "question": "Which of these Pokémon is not a pseudo-legendary Pokémon?",
+    "options": ["Dragonite", "Tyranitar", "Salamence", "Garchomp"],
+    "answer": "Garchomp"
   }
 ]
